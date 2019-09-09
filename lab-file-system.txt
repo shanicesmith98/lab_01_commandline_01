@@ -144,19 +144,19 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
-
+-bash: cd: /unknown_folder: No such file or directory
+v314-ent-017:Volumes student$ pwd
+/Volumes
 
 ==========
-*15. Type:
+15. Type:
 
 $ cd ~/mtec1002
 $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
-
+/Users/student/mtech1002
 
 ==========
 16. Type:
@@ -200,12 +200,11 @@ Write the command you used to create the directory below:
 mkdir aardvark
 
 ==========
-*20. List the files and directories in the current directory using the long format.  
+20. List the files and directories in the current directory using the long format.  
 
 What is the modified date of the aardvark directory?
 ----------
-
-
+Sep  9 15:13 
 
 ==========
 21. Make 3 directories nested within each other:
@@ -253,15 +252,14 @@ pwd
 ~
 
 ==========
-*28. What's a pathname?
+28. What's a pathname?
 ----------
-it's the name of the 
-
+it's the name of the file or directory, also a location in the file system.
 
 ==========
-*29. What's a directory?
+29. What's a directory?
 ----------
-
+it's a location in the file storage system.
 
 ==========
 30. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
